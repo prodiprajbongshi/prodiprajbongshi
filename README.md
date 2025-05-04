@@ -16,19 +16,26 @@
 - 🔭 I’m currently working on **MERN stack projects**
 - 🌱 I’m currently learning **Next.js and Framer Motion**
 - 👨‍💻 All of my projects are available at [My Portfolio](#)
-- 📫 How to reach me: **prodip.devraj@gmail.com**
+- 📫 How to reach me: **prodip.code@gmail.com**
 - ⚡ Fun fact: I love creating smooth UI experiences and clean code!
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+
+
+### 🚀 Frontend Skills
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
+
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
@@ -56,8 +63,8 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/devprodipraj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:prodip.devraj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/prodip-raj-a50818282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:prodip.code@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/DevProdipraj"><img src="https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
