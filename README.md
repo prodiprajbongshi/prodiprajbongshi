@@ -56,7 +56,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevProdipraj&theme=tokyonight" />
 </div>
 
-<p align="center">
+<p  width='full'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevProdipraj&layout=compact&theme=tokyonight" />
 </p>
 
