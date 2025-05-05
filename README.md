@@ -51,14 +51,11 @@
 ---
 
 ### 📈 GitHub Stats
-<div>
-  <p  >
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=DevProdipraj&show_icons=true&theme=tokyonight" />
-</p>
-<p  >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevProdipraj&theme=tokyonight" />
-</p>
 </div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevProdipraj&layout=compact&theme=tokyonight" />
 </p>
