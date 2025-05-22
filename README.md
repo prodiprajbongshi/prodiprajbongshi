@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/450353824_2172167626498611_7967151236950553356_n.png?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF9J26CAraXmoHMakaeV1HljfXnJa78oZ-N9eclrvyhn0-rlfEX4zk3gOoiHoKmjdPMJWzJW9tqqYTfiPVbcmRc&_nc_ohc=7TbARD2doIMQ7kNvwGOI8eV&_nc_oc=AdlWzu8Pl209w0m2haYZouvooF_JYseH3GVBbiVGBHmz9Sg-BQAwLnlzaknMtSkzCDU&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=nKMq37UO1sR2m56cxrHSEA&oh=00_AfEE2Ex4-tz8feJZMX5OPCkLwR2e7i49bf7Lgbs4-HVNRQ&oe=681CF447" 
+    src="https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/450353824_2172167626498611_7967151236950553356_n.png?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF9J26CAraXmoHMakaeV1HljfXnJa78oZ-N9eclrvyhn0-rlfEX4zk3gOoiHoKmjdPMJWzJW9tqqYTfiPVbcmRc&_nc_ohc=7TbARD2doIMQ7kNvwGOI8eV&_nc_oc=AdlWzu8Pl209w0m2haYZouvooF_JYseH3GVBbiVGBHmz9Sg-BQAwLnlzaknMtSkzCDU&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=nKMq37UO1sR2m56cxrHSEA&oh=00_AfEE2Ex4-tz8feJZMX5OPCkLwR2e7i49bf7Lgbs4-HVNRQ&oe=681CF447](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/450353824_2172167626498611_7967151236950553356_n.png?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF9J26CAraXmoHMakaeV1HljfXnJa78oZ-N9eclrvyhn0-rlfEX4zk3gOoiHoKmjdPMJWzJW9tqqYTfiPVbcmRc&_nc_ohc=7BB5FTzxoPAQ7kNvwE9Ij9P&_nc_oc=Adl_5QwFK-uxp8mGmWfAycHInr7kz9kBFq2g1dIJG5NJcleLzAxIkVoec1xye-qW1YY&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=rZysEudX03xX8s1ezPNfTQ&oh=00_AfIzr58NOh2W1CS50o5yYmUaQGW-ILm415RZ0m6wg4I3gQ&oe=6834E787" 
     alt="Prodip Raj" 
     style="width: 100%; max-width: 600px; height: auto;" 
   />
