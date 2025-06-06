@@ -11,7 +11,7 @@
 <h3 align="center">A passionate MERN Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Frontend+%7C+Backend+%7C+Fullstack+Developer;React+%7C+Node+%7C+MongoDB;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
+  <img src="./img/poster.png" alt="Typing SVG" />
 </p>
 
 ---
