@@ -1,17 +1,16 @@
 <p align="center">
   <img 
-    src="https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/450353824_2172167626498611_7967151236950553356_n.png?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF9J26CAraXmoHMakaeV1HljfXnJa78oZ-N9eclrvyhn0-rlfEX4zk3gOoiHoKmjdPMJWzJW9tqqYTfiPVbcmRc&_nc_ohc=7TbARD2doIMQ7kNvwGOI8eV&_nc_oc=AdlWzu8Pl209w0m2haYZouvooF_JYseH3GVBbiVGBHmz9Sg-BQAwLnlzaknMtSkzCDU&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=nKMq37UO1sR2m56cxrHSEA&oh=00_AfEE2Ex4-tz8feJZMX5OPCkLwR2e7i49bf7Lgbs4-HVNRQ&oe=681CF447](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/450353824_2172167626498611_7967151236950553356_n.png?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF9J26CAraXmoHMakaeV1HljfXnJa78oZ-N9eclrvyhn0-rlfEX4zk3gOoiHoKmjdPMJWzJW9tqqYTfiPVbcmRc&_nc_ohc=7BB5FTzxoPAQ7kNvwE9Ij9P&_nc_oc=Adl_5QwFK-uxp8mGmWfAycHInr7kz9kBFq2g1dIJG5NJcleLzAxIkVoec1xye-qW1YY&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=rZysEudX03xX8s1ezPNfTQ&oh=00_AfIzr58NOh2W1CS50o5yYmUaQGW-ILm415RZ0m6wg4I3gQ&oe=6834E787" 
+  src="./img/poster.png"
     alt="Prodip Raj" 
     style="width: 100%; max-width: 600px; height: auto;" 
   />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Prodip Rajbongshi</h1>
 <h3 align="center">A passionate MERN Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="./img/poster.png" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Frontend+%7C+Backend+%7C+Fullstack+Developer;React+%7C+Node+%7C+MongoDB;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,8 +27,6 @@
 
 ### 🛠️ Tech Stack
 
-
-
 ### 🚀 Frontend Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -41,13 +38,14 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
 
-
 #### Backend
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 #### Tools
+
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
@@ -56,13 +54,12 @@
 ---
 
 ### 📈 GitHub Stats
+
 <div display="flex" align="center" ">
   <img src="https://github-readme-stats.vercel.app/api?username=DevProdipraj&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevProdipraj&theme=tokyonight" />
 
 </div>
-
- 
 
 ---
 
@@ -76,4 +73,4 @@
 
 ---
 
-🛠️ *Let's build and grow together!*
+🛠️ _Let's build and grow together!_
