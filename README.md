@@ -66,7 +66,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/prodip-raj-a50818282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/prodip-rajbongshi-a50818282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a target="_blank" href="mailto:prodip.code@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   
 </p>
