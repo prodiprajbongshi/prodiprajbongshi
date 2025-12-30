@@ -54,11 +54,10 @@
 ---
 
 ### 📈 GitHub Stats
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=prodiprajbongshi&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=prodiprajbongshi&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prodiprajbongshi&theme=tokyonight" />
-</div>
+
+ 
 
 
 ---
