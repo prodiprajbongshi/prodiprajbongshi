@@ -54,7 +54,7 @@
 ---
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prodiprajbongshi&theme=tokyonight" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fprodiprajbongshi)](https://git.io/streak-stats)
 
 
 
