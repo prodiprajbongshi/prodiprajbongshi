@@ -54,7 +54,7 @@
 ---
 
 ### 📈 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fprodiprajbongshi)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prodiprajbongshi)](https://git.io/streak-stats)
 
 
 
