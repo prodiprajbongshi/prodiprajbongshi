@@ -1,4 +1,3 @@
-<!-- ======================= HEADER ======================= -->
 
 <p align="center">
 
@@ -12,7 +11,7 @@
 
 <h1 align="center">
 
-Hi 👋, I'm Prodip Rajbongshi
+Hi This is  Prodip Rajbongshi
 
 </h1>
 
@@ -66,14 +65,8 @@ Express, and MongoDB.
 🌱 Currently learning NestJS & AWS
 
 💡 Interested in Web Development, UI/UX & Software Engineering
-
-🎓 CSE Graduate
-
-👨‍💻 Portfolio: Visit My
-Portfolio
-
+👨‍💻 Portfolio: Portfolio
 📫 Email: prodip.code@gmail.com
-
 ⚡ Fun fact: I enjoy turning ideas into clean and interactive
 digital experiences.
 
@@ -129,77 +122,31 @@ interfaces.
 
 🛠️ Tech Stack
 
-🚀 Frontend
+Frontend Development
 
+Technologies
 <p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux" />{=html}
 
 </p>
 
+
+Backend Development
 Technologies
-
-HTML5
-
-CSS3
-
-JavaScript
-
-React.js
-
-Next.js
-
-Tailwind CSS
-
-Bootstrap
-
-Redux
-
-⚙️ Backend
-
 <p>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />{=html}
 
 </p>
 
-Technologies
-
-Node.js
-
-Express.js
-
-MongoDB
-
-REST API
-
-Authentication
-
-Server-side Development
-
-☁️ Tools & Technologies
+Tools & Technologies
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,aws" />{=html}
 
 </p>
-
-Tools
-
-Git
-
-GitHub
-
-VS Code
-
-Figma
-
-Vercel
-
-AWS
-
-npm
 
 📌 Featured Work
 
@@ -257,19 +204,12 @@ More projects and case studies are available on my portfolio.
 
 </p>
 
-🎯 Current Goals
-
-[████████████████████░░] Full-Stack Development
-[███████████████░░░░░░░] Advanced React & Next.js
-[████████████░░░░░░░░░] NestJS
-[██████████░░░░░░░░░░░] AWS & Cloud
-[██████████████░░░░░░░] Software Architecture
 
 I'm continuously improving my skills by building real-world projects,
 exploring modern technologies, and learning better software development
 practices.
 
-🤝 Let's Connect
+Let's Connect
 
 I'm always interested in connecting with developers, designers,
 entrepreneurs and people who are building interesting digital products.
