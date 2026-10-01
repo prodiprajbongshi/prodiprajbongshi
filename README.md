@@ -1,207 +1,458 @@
+<!-- ========================================================= -->
+<!--                        HEADER                             -->
+<!-- ========================================================= -->
 
 <p align="center">
-
-<img 
+  <img
     src="./img/poster.png"
     alt="Prodip Rajbongshi - Web Developer"
     width="100%"
   />
-
 </p>
+
+<br />
 
 <h1 align="center">
-
-Hi This is  Prodip Rajbongshi
-
+  Hi This is <span style="color:#00D1FF;">Prodip Rajbongshi</span>
 </h1>
 
-<h3 align="center">
-
-Full-Stack Web Developer • CSE Graduate • MERN Stack Developer
-
-</h3>
-
 <p align="center">
-
-<a href="https://portfolio-two-chi-18.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-00D1FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/prodip-rajbongshi-a50818282" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="mailto:prodip.code@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <strong>Full-Stack Web Developer</strong>
+  &nbsp;•&nbsp;
+  <strong>CSE Graduate</strong>
+  &nbsp;•&nbsp;
+  <strong>MERN Stack Developer</strong>
 </p>
 
 <p align="center">
+  <a href="https://portfolio-two-chi-18.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-00D1FF?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/prodip-rajbongshi-a50818282" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:prodip.code@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
 
-<img 
+<br />
+
+<p align="center">
+  <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences;Turning+Ideas+Into+Digital+Products"
     alt="Typing SVG"
   />
-
 </p>
 
-👨‍💻 About Me
+<br />
 
-I'm Prodip Rajbongshi, a CSE graduate and passionate Full-Stack
-Web Developer from Bangladesh.
+---
 
-I enjoy transforming ideas into modern, scalable, and user-friendly web
-applications. My main focus is building responsive frontend experiences
-with React and developing reliable backend systems using Node.js,
-Express, and MongoDB.
-
-💻 Full-Stack Web Development
-🎨 Modern UI/UX Implementation
-⚡ Performance & Responsive Design
-🔐 REST API & Backend Development
-🗄️ Database Integration
-🚀 Deployment & Version Control
-
-🔭 Currently working on Full-Stack Web Applications
-
-🌱 Currently learning NestJS & AWS
-
-💡 Interested in Web Development, UI/UX & Software Engineering
-👨‍💻 Portfolio: Portfolio
-📫 Email: prodip.code@gmail.com
-⚡ Fun fact: I enjoy turning ideas into clean and interactive
-digital experiences.
-
-🧩 What I Do
+# 👨‍💻 About Me
 
 <table>
-
 <tr>
+<td>
 
-<td width="50%">
+I'm **Prodip Rajbongshi**, a CSE graduate and passionate **Full-Stack Web Developer from Bangladesh**.
 
-🌐 Web Development
-
-Building modern, responsive and scalable websites and web applications
-using modern technologies.
+I enjoy transforming ideas into modern, scalable, and user-friendly web applications. My main focus is building responsive frontend experiences with React and developing reliable backend systems using Node.js, Express, and MongoDB.
 
 </td>
-
-<td width="50%">
-
-⚛️ Frontend Development
-
-Creating interactive user interfaces with React, Next.js, Tailwind CSS
-and modern JavaScript.
-
-</td>
-
 </tr>
-
-<tr>
-
-<td width="50%">
-
-🛠️ Backend Development
-
-Developing REST APIs and server-side applications using Node.js,
-Express.js and MongoDB.
-
-</td>
-
-<td width="50%">
-
-🎨 UI/UX Implementation
-
-Turning Figma and design concepts into responsive and polished web
-interfaces.
-
-</td>
-
-</tr>
-
 </table>
 
-🛠️ Tech Stack
+<br />
 
-Frontend Development
+### 💻 What I Focus On
 
-Technologies
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻
+
+**Full-Stack Web Development**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎨
+
+**Modern UI/UX Implementation**
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡
+
+**Performance & Responsive Design**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔐
+
+**REST API & Backend Development**
+
+</td>
+
+<td align="center">
+
+### 🗄️
+
+**Database Integration**
+
+</td>
+
+<td align="center">
+
+### 🚀
+
+**Deployment & Version Control**
+
+</td>
+</tr>
+</table>
+
+<br />
+
+### 🚀 Currently
+
+<table>
+<tr>
+<td width="50%">
+
+🔭 **Currently working on**
+
+Full-Stack Web Applications
+
+</td>
+
+<td width="50%">
+
+🌱 **Currently learning**
+
+NestJS & AWS
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+💡 **Interested in**
+
+Web Development, UI/UX & Software Engineering
+
+</td>
+
+<td width="50%">
+
+👨‍💻 **Portfolio**
+
+<a href="https://portfolio-two-chi-18.vercel.app/" target="_blank">
+Portfolio
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+📫 **Email**
+
+<a href="mailto:prodip.code@gmail.com">
+prodip.code@gmail.com
+</a>
+
+</td>
+
+<td width="50%">
+
+⚡ **Fun fact**
+
+I enjoy turning ideas into clean and interactive digital experiences.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧩 What I Do
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Web Development
+
+Building modern, responsive and scalable websites and web applications using modern technologies.
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚛️ Frontend Development
+
+Creating interactive user interfaces with React, Next.js, Tailwind CSS and modern JavaScript.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛠️ Backend Development
+
+Developing REST APIs and server-side applications using Node.js, Express.js and MongoDB.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎨 UI/UX Implementation
+
+Turning Figma and design concepts into responsive and polished web interfaces.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+## 🚀 Frontend Development
+
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux" />
-
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux"
+    alt="Frontend Technologies"
+  />
 </p>
 
-
-Backend Development
-Technologies
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-</p>
-
-Tools & Technologies
+### Technologies
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,aws" />
-
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
+    alt="HTML5"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"
+    alt="CSS3"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
+    alt="JavaScript"
+  />
+  <img
+    src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"
+    alt="React"
+  />
+  <img
+    src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"
+    alt="Next.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"
+    alt="Tailwind CSS"
+  />
+  <img
+    src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"
+    alt="Bootstrap"
+  />
+  <img
+    src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
+    alt="Redux"
+  />
 </p>
 
-📌 Featured Work
+---
+
+## ⚙️ Backend Development
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mongodb"
+    alt="Backend Technologies"
+  />
+</p>
+
+### Technologies
+
+<p>
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"
+    alt="Node.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"
+    alt="Express.js"
+  />
+  <img
+    src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"
+    alt="MongoDB"
+  />
+</p>
+
+---
+
+## 🧰 Tools & Technologies
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,aws"
+    alt="Tools and Technologies"
+  />
+</p>
+
+---
+
+# 📌 Featured Work
 
 Here are some of the areas I work on:
 
-Project Type                     Technologies
+<br />
 
-🌐 Business Websites             React, Tailwind CSS, JavaScript
-🛒 E-Commerce Applications       MERN Stack
-📊 Dashboard Applications        React, REST API
-🔐 Authentication Systems        Node.js, Express, MongoDB
-📱 Responsive Web Applications   React, Next.js
-🎨 UI/UX Implementations         Figma, React, Tailwind
+<table>
+<thead>
+<tr>
+<th align="left">Project Type</th>
+<th align="left">Technologies</th>
+</tr>
+</thead>
 
-More projects and case studies are available on my portfolio.
+<tbody>
 
-🔗 Explore My Portfolio
+<tr>
+<td>🌐 Business Websites</td>
+<td>React, Tailwind CSS, JavaScript</td>
+</tr>
 
-📊 GitHub Statistics
+<tr>
+<td>🛒 E-Commerce Applications</td>
+<td>MERN Stack</td>
+</tr>
+
+<tr>
+<td>📊 Dashboard Applications</td>
+<td>React, REST API</td>
+</tr>
+
+<tr>
+<td>🔐 Authentication Systems</td>
+<td>Node.js, Express, MongoDB</td>
+</tr>
+
+<tr>
+<td>📱 Responsive Web Applications</td>
+<td>React, Next.js</td>
+</tr>
+
+<tr>
+<td>🎨 UI/UX Implementations</td>
+<td>Figma, React, Tailwind</td>
+</tr>
+
+</tbody>
+</table>
+
+<br />
 
 <p align="center">
-
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=prodiprajbongshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
-  />
-
-<img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodiprajbongshi&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-
+  <strong>More projects and case studies are available on my portfolio.</strong>
 </p>
 
-🔥 GitHub Streak
+<p align="center">
+  <a href="https://portfolio-two-chi-18.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🔗%20Explore%20My%20Portfolio-00D1FF?style=for-the-badge&logoColor=white"
+      alt="Explore My Portfolio"
+    />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=prodiprajbongshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+    alt="GitHub Statistics"
+  />
 
-<img 
+  &nbsp;&nbsp;
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodiprajbongshi&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=prodiprajbongshi&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
+</p>
+
+---
+
+# 🚀 Continuous Learning
+
+<table>
+<tr>
+<td>
+
+I'm continuously improving my skills by building real-world projects, exploring modern technologies, and learning better software development practices.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💬 Developer Philosophy
+
+<p align="center">
+
+> **"Write clean code. Build meaningful products. Keep learning."**
 
 </p>
 
- 
-I'm continuously improving my skills by building real-world projects,
-exploring modern technologies, and learning better software development
-practices.
-
- 
-
-💬 Developer Philosophy
-
-"Write clean code. Build meaningful products. Keep learning."
+<br />
 
 <p align="center">
 
@@ -209,4 +460,11 @@ practices.
 
 </p>
 
- 
+<br />
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=prodiprajbongshi&label=Profile%20Views&color=00D1FF&style=flat"
+    alt="Profile Views"
+  />
+</p>
