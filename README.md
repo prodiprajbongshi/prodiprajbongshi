@@ -197,25 +197,7 @@ I'm continuously improving my skills by building real-world projects,
 exploring modern technologies, and learning better software development
 practices.
 
-Let's Connect
-
-I'm always interested in connecting with developers, designers,
-entrepreneurs and people who are building interesting digital products.
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/prodip-rajbongshi-a50818282" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:prodip.code@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://portfolio-two-chi-18.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00D1FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-</p>
+ 
 
 💬 Developer Philosophy
 
@@ -227,11 +209,4 @@ entrepreneurs and people who are building interesting digital products.
 
 </p>
 
-<p align="center">
-
-<img 
-    src="https://komarev.com/ghpvc/?username=prodiprajbongshi&label=Profile%20Views&color=00D1FF&style=flat"
-    alt="Profile Views"
-  />
-
-</p>
+ 
