@@ -255,43 +255,6 @@ Turning Figma and design concepts into responsive and polished web interfaces.
   />
 </p>
 
-### Technologies
-
-<p>
-  <img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
-    alt="HTML5"
-  />
-  <img
-    src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"
-    alt="CSS3"
-  />
-  <img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
-    alt="JavaScript"
-  />
-  <img
-    src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"
-    alt="React"
-  />
-  <img
-    src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"
-    alt="Next.js"
-  />
-  <img
-    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"
-    alt="Tailwind CSS"
-  />
-  <img
-    src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"
-    alt="Bootstrap"
-  />
-  <img
-    src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
-    alt="Redux"
-  />
-</p>
-
 ---
 
 ## ⚙️ Backend Development
@@ -428,43 +391,4 @@ Here are some of the areas I work on:
   />
 </p>
 
----
 
-# 🚀 Continuous Learning
-
-<table>
-<tr>
-<td>
-
-I'm continuously improving my skills by building real-world projects, exploring modern technologies, and learning better software development practices.
-
-</td>
-</tr>
-</table>
-
----
-
-# 💬 Developer Philosophy
-
-<p align="center">
-
-> **"Write clean code. Build meaningful products. Keep learning."**
-
-</p>
-
-<br />
-
-<p align="center">
-
-<b>🛠️ Let's build something great together!</b>
-
-</p>
-
-<br />
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=prodiprajbongshi&label=Profile%20Views&color=00D1FF&style=flat"
-    alt="Profile Views"
-  />
-</p>
