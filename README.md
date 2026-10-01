@@ -266,22 +266,7 @@ Turning Figma and design concepts into responsive and polished web interfaces.
   />
 </p>
 
-### Technologies
 
-<p>
-  <img
-    src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"
-    alt="Node.js"
-  />
-  <img
-    src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"
-    alt="Express.js"
-  />
-  <img
-    src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"
-    alt="MongoDB"
-  />
-</p>
 
 ---
 
