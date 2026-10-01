@@ -5,7 +5,7 @@
     src="./img/poster.png"
     alt="Prodip Rajbongshi - Web Developer"
     width="100%"
-  />{=html}
+  />
 
 </p>
 
@@ -23,14 +23,14 @@ Full-Stack Web Developer • CSE Graduate • MERN Stack Developer
 
 <p align="center">
 
-<a href="https://portfolio-two-chi-18.vercel.app/" target="_blank">{=html}
-<img src="https://img.shields.io/badge/Portfolio-00D1FF?style=for-the-badge&logo=vercel&logoColor=white" />{=html}
-</a>{=html}
-<a href="https://www.linkedin.com/in/prodip-rajbongshi-a50818282" target="_blank">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />{=html}
-</a>{=html} <a href="mailto:prodip.code@gmail.com">{=html}
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />{=html}
-</a>{=html}
+<a href="https://portfolio-two-chi-18.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00D1FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/prodip-rajbongshi-a50818282" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a href="mailto:prodip.code@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </p>
 
@@ -39,7 +39,7 @@ Full-Stack Web Developer • CSE Graduate • MERN Stack Developer
 <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences;Turning+Ideas+Into+Digital+Products"
     alt="Typing SVG"
-  />{=html}
+  />
 
 </p>
 
@@ -127,7 +127,7 @@ Frontend Development
 Technologies
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux" />{=html}
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux" />
 
 </p>
 
@@ -136,7 +136,7 @@ Backend Development
 Technologies
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />{=html}
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 </p>
 
@@ -144,7 +144,7 @@ Tools & Technologies
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,aws" />{=html}
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,aws" />
 
 </p>
 
@@ -172,12 +172,12 @@ More projects and case studies are available on my portfolio.
 <img 
     src="https://github-readme-stats.vercel.app/api?username=prodiprajbongshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="180"
-  />{=html}
+  />
 
 <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodiprajbongshi&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
-  />{=html}
+  />
 
 </p>
 
@@ -188,23 +188,11 @@ More projects and case studies are available on my portfolio.
 <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=prodiprajbongshi&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
-  />{=html}
+  />
 
 </p>
 
-📈 Contribution Graph
-
-<p align="center">
-
-<img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prodiprajbongshi&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />{=html}
-
-</p>
-
-
+ 
 I'm continuously improving my skills by building real-world projects,
 exploring modern technologies, and learning better software development
 practices.
@@ -216,18 +204,17 @@ entrepreneurs and people who are building interesting digital products.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/prodip-rajbongshi-a50818282" target="_blank">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />{=html}
-</a>{=html}
+<a href="https://www.linkedin.com/in/prodip-rajbongshi-a50818282" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<a href="mailto:prodip.code@gmail.com">{=html}
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />{=html}
-</a>{=html}
+<a href="mailto:prodip.code@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<a href="https://portfolio-two-chi-18.vercel.app/" target="_blank">{=html}
-<img src="https://img.shields.io/badge/Portfolio-Visit-00D1FF?style=for-the-badge&logo=vercel&logoColor=white" />{=html}
-</a>{=html}
-
+<a href="https://portfolio-two-chi-18.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00D1FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 💬 Developer Philosophy
@@ -236,7 +223,7 @@ entrepreneurs and people who are building interesting digital products.
 
 <p align="center">
 
-<b>{=html}🛠️ Let's build something great together!</b>{=html}
+<b>🛠️ Let's build something great together!</b>
 
 </p>
 
@@ -245,6 +232,6 @@ entrepreneurs and people who are building interesting digital products.
 <img 
     src="https://komarev.com/ghpvc/?username=prodiprajbongshi&label=Profile%20Views&color=00D1FF&style=flat"
     alt="Profile Views"
-  />{=html}
+  />
 
 </p>
