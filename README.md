@@ -31,14 +31,14 @@
       alt="Portfolio"
     />
   </a>
-  &nbsp;
+ 
   <a href="https://www.linkedin.com/in/prodip-rajbongshi-a50818282" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-  &nbsp;
+ 
   <a href="mailto:prodip.code@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -266,8 +266,6 @@ Turning Figma and design concepts into responsive and polished web interfaces.
   />
 </p>
 
-
-
 ---
 
 ## 🧰 Tools & Technologies
@@ -332,11 +330,11 @@ Here are some of the areas I work on:
 
 <br />
 
-<p align="center">
+<p  >
   <strong>More projects and case studies are available on my portfolio.</strong>
 </p>
 
-<p align="center">
+<p>
   <a href="https://portfolio-two-chi-18.vercel.app/" target="_blank">
     <img
       src="https://img.shields.io/badge/🔗%20Explore%20My%20Portfolio-00D1FF?style=for-the-badge&logoColor=white"
@@ -349,7 +347,7 @@ Here are some of the areas I work on:
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<p  >
   <img
     src="https://github-readme-stats.vercel.app/api?username=prodiprajbongshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="180"
@@ -369,7 +367,7 @@ Here are some of the areas I work on:
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<p  >
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=prodiprajbongshi&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
